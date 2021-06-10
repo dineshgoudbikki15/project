@@ -1,6 +1,6 @@
 var customer={
-    custId:511,
-    custName:'Manideep',
+    custId:5931,
+    custName:'dinesh',
     custAccNum: 114455664778,
 
     getSavingsDeposit(){
